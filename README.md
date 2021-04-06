@@ -52,10 +52,10 @@ My main fields of interests are:
 ![](https://img.shields.io/badge/Editor-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=008080)
 ![](https://img.shields.io/badge/Editor-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=404D59)
 
-#### BDD
+#### Database
 
-![](https://img.shields.io/badge/Data-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=07405e)
-![](https://img.shields.io/badge/Data-Mongo_DB-informational?style=flat&logo=mongodb&logoColor=white&color=4ea94b)
+![](https://img.shields.io/badge/DB-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=07405e)
+![](https://img.shields.io/badge/DB-Mongo_DB-informational?style=flat&logo=mongodb&logoColor=white&color=4ea94b)
 
 #### Robotics & Hardware
 
