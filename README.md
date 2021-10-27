@@ -1,6 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/chloeskt/chloeskt/main/wave.gif" width="30px">
 
-My name is Chloé, I am 🇫🇷 and 🇲🇦. I am currently an engineering student passionate about the world of Artificial Intelligence 🤖. 
+My name is Chloé. I am currently an engineering student passionate about the world of Artificial Intelligence 🤖. 
 
 I love maths and coding ! Always eager to learn more ✌️
 
@@ -13,8 +13,17 @@ My main fields of interests are:
 ---
 ### 🔭 What I work with 
 
-#### Front-end
+#### Artificial Intelligence 
 
+![PyTorch](https://img.shields.io/badge/DL-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/DL-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
+![Anaconda](https://img.shields.io/badge/ML-Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white&color=green)
+![Jupyter Notebook](https://img.shields.io/badge/ML-Jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white&color=orange)
+![SciPy](https://img.shields.io/badge/ML-SciPy-%230C55A5.svg?style=flat&logo=Scipy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-%23F7931E.svg?style=flat&logo=Scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/ML-Pandas-%23150458.svg?style=flat&logo=Pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Viz-Plotly-%233F4F75.svg?style=flat&logo=Plotly&logoColor=white)
+#### Front-end
 
 ![](https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=html5&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Web-CSS-informational?style=flat&logo=css3&logoColor=white&color=orange)
