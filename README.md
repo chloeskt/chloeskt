@@ -1,11 +1,10 @@
-## Hi there <img src="https://raw.githubusercontent.com/chloeskt/chloeskt/main/wave.gif" width="30px">
+## Hi there <img src="https://raw.githubusercontent.com/chloeskt/chloeskt/main/wave.gif" width="10px">
 
 My name is Chloé. I am currently an engineering student passionate about the world of Artificial Intelligence 🤖. 
 
 I love maths and coding ! Always eager to learn more ✌️
 
 My main fields of interests are:
-- Statistics
 - NLP
 - Computer Vision
 - Robotics & Automation
@@ -94,6 +93,7 @@ My main fields of interests are:
 - Music 🎹
 - Running 🏃‍
 - Basketball 🏀
+- Bouldering 🧗
 - Video games 👾 ![](https://img.shields.io/badge/PlayStation-003791?style=flat&logo=playstation&logoColor=white)
 ---
 ### Some Github Stats
