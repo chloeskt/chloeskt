@@ -5,7 +5,7 @@ My name is Chloé. I am currently an engineering student passionate about the wo
 I love maths and coding ! Always eager to learn more ✌️
 
 My main fields of interests are:
-- NLP
+- NLP \& Speech
 - Computer Vision
 - Robotics & Automation
 
