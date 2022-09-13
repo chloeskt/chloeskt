@@ -94,7 +94,7 @@ My main fields of interests are:
 - Running 🏃‍
 - Basketball 🏀
 - Bouldering 🧗
-- Video games 👾 ![](https://img.shields.io/badge/PlayStation-003791?style=flat&logo=playstation&logoColor=white)
+- Video games 👾
 ---
 ### Some Github Stats
 
