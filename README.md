@@ -2,7 +2,9 @@
 
 My name is Chloé. I am currently a Machine Learning Scientist at Sonos in the Spoken Language Understanding team.
 
-I aml passionate about the world of Artificial Intelligence 🤖, maths and coding ! Always eager to learn more ✌️
+I am passionate about the world of Artificial Intelligence 🤖, maths and coding ! Always eager to learn more ✌️
+
+I graduated from ENSAE ParisTech with a major in Computer Science & Data Science. I am also an MVA (Mathématiques, Vision, Apprentissage) alumni from ENS Paris-Saclay; this master degree is the most prestigious one in the field of machine learning in France.
 
 My main fields of interests are:
 - NLP \& Speech
