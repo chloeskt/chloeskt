@@ -1,8 +1,8 @@
 ## Hi there <img src="https://raw.githubusercontent.com/chloeskt/chloeskt/main/wave.gif" width="10px">
 
-My name is Chloé. I am currently an engineering student passionate about the world of Artificial Intelligence 🤖. 
+My name is Chloé. I am currently a Machine Learning Scientist at Sonos in the Spoken Language Understanding team.
 
-I love maths and coding ! Always eager to learn more ✌️
+I aml passionate about the world of Artificial Intelligence 🤖, maths and coding ! Always eager to learn more ✌️
 
 My main fields of interests are:
 - NLP \& Speech
